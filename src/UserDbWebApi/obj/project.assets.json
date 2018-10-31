@@ -11600,11 +11600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\UserDbWebApi\\UserDbWebApi.csproj",
+      "projectUniqueName": "D:\\Git\\IdentityServerApiTest\\src\\UserDbWebApi\\UserDbWebApi.csproj",
       "projectName": "UserDbWebApi",
-      "projectPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\UserDbWebApi\\UserDbWebApi.csproj",
+      "projectPath": "D:\\Git\\IdentityServerApiTest\\src\\UserDbWebApi\\UserDbWebApi.csproj",
       "packagesPath": "C:\\Users\\Aldmi\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\UserDbWebApi\\obj\\",
+      "outputPath": "D:\\Git\\IdentityServerApiTest\\src\\UserDbWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

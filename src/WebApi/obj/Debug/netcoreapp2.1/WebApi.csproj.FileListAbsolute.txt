@@ -67,3 +67,17 @@ D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebAp
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+D:\Git\IdentityServerApiTest\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\Git\IdentityServerApiTest\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\Git\IdentityServerApiTest\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\Git\IdentityServerApiTest\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\Git\IdentityServerApiTest\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\Git\IdentityServerApiTest\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

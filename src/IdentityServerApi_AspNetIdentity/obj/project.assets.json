@@ -14533,11 +14533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi_AspNetIdentity\\IdentityServerApi_AspNetIdentity.csproj",
+      "projectUniqueName": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi_AspNetIdentity\\IdentityServerApi_AspNetIdentity.csproj",
       "projectName": "IdentityServerApi_AspNetIdentity",
-      "projectPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi_AspNetIdentity\\IdentityServerApi_AspNetIdentity.csproj",
+      "projectPath": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi_AspNetIdentity\\IdentityServerApi_AspNetIdentity.csproj",
       "packagesPath": "C:\\Users\\Aldmi\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi_AspNetIdentity\\obj\\",
+      "outputPath": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi_AspNetIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14557,8 +14557,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\UserDbWebApi\\UserDbWebApi.csproj": {
-              "projectPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\UserDbWebApi\\UserDbWebApi.csproj"
+            "D:\\Git\\IdentityServerApiTest\\src\\UserDbWebApi\\UserDbWebApi.csproj": {
+              "projectPath": "D:\\Git\\IdentityServerApiTest\\src\\UserDbWebApi\\UserDbWebApi.csproj"
             }
           }
         }

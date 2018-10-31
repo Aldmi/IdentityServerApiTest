@@ -11600,11 +11600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Git\\IdentityServerApiTest\\src\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\Git\\IdentityServerApiTest\\src\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Aldmi\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\WebApi\\obj\\",
+      "outputPath": "D:\\Git\\IdentityServerApiTest\\src\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

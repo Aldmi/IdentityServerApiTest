@@ -11576,11 +11576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi\\IdentityServerApi.csproj",
+      "projectUniqueName": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi\\IdentityServerApi.csproj",
       "projectName": "IdentityServerApi",
-      "projectPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi\\IdentityServerApi.csproj",
+      "projectPath": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi\\IdentityServerApi.csproj",
       "packagesPath": "C:\\Users\\Aldmi\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\C#\\ASP NET Core\\IdentityServerTest_1.2 (With ASP.NET Identity)2\\IdentityServerApi\\obj\\",
+      "outputPath": "D:\\Git\\IdentityServerApiTest\\src\\IdentityServerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
