@@ -1,0 +1,11 @@
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi_AspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerApi_AspNetIdentity.pdb

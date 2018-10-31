@@ -1,0 +1,180 @@
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.input.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.output.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorCoreGenerate.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\_ScopeListItem.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CopyComplete
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.input.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.output.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorCoreGenerate.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\_ScopeListItem.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CopyComplete
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.input.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.output.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorCoreGenerate.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\_ScopeListItem.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CopyComplete
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.input.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.output.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorCoreGenerate.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\_ScopeListItem.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CopyComplete
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\bin\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.input.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.TagHelpers.output.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorCoreGenerate.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Consent\_ScopeListItem.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.RazorTargetAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.Views.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csproj.CopyComplete
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\IdentityServerApi\obj\Debug\netcoreapp2.1\IdentityServerApi.csprojAssemblyReference.cache

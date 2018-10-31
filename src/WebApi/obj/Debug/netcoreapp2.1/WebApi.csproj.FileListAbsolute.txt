@@ -1,0 +1,69 @@
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

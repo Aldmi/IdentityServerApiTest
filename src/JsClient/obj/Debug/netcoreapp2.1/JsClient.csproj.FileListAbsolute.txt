@@ -1,0 +1,70 @@
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.0\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\ALDMI\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
+D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
