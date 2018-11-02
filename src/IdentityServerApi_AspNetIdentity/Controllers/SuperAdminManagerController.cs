@@ -2,8 +2,6 @@
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
-using IdentityServerApi_AspNetIdentity.DTO.UserDto;
-using IdentityServerApi_AspNetIdentity.Models.UserModel;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;

@@ -1,6 +1,4 @@
 ﻿using AutoMapper;
-using IdentityServerApi_AspNetIdentity.DTO.UserDto;
-using IdentityServerApi_AspNetIdentity.Models.UserModel;
 
 namespace IdentityServerApi_AspNetIdentity.AutoMapperConfig
 {

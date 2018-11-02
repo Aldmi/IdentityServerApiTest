@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Security.Claims;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using UserDbWebApi.DTO.RolesDto;
+using UserDbWebApi.Services;
 
 namespace UserDbWebApi.Controllers
 {
@@ -17,7 +14,7 @@ namespace UserDbWebApi.Controllers
     {
         #region field
 
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManagerService _roleManager;
 
         #endregion
 
@@ -26,7 +23,7 @@ namespace UserDbWebApi.Controllers
 
         #region ctor
 
-        public RoleManagerController(RoleManager<IdentityRole> roleManager)
+        public RoleManagerController(RoleManagerService roleManager)
         {
             _roleManager = roleManager;
         }
@@ -42,26 +39,9 @@ namespace UserDbWebApi.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var rolesDto = new List<RoleDto>();
-            var roles = _roleManager.Roles.Where(r => r.Name != "SuperAdmin").ToList();
-            if (!roles.Any())
-            {
-                return NoContent();
-            }
-            foreach (var role in roles)
-            {
-                var roleClaims = await _roleManager.GetClaimsAsync(role);
-                rolesDto.Add(new RoleDto
-                {
-                    Id = role.Id,
-                    Name = role.Name,
-                    Claims = roleClaims.ToDictionary(claim => claim.Type, claim => claim.Value)
-                });
-            }
-
+            var rolesDto = await _roleManager.GetAll();
             return new JsonResult(rolesDto);
         }
-
 
 
         // POST api/RoleManager
@@ -83,74 +63,34 @@ namespace UserDbWebApi.Controllers
             }
 
             // добавить РОЛЬ
-            var role = new IdentityRole(data.Name);
-            var result = _roleManager.CreateAsync(role).Result;
-            if (!result.Succeeded)
-            {
-                throw new Exception(result.Errors.First().Description);
-            }
-
-            // добавить КЛЕЙМЫ
-            var claims = data.Claims.Select(c => new Claim(c.Key, c.Value)).ToList();
-            foreach (var claim in claims)
-            {
-                result = _roleManager.AddClaimAsync(role, claim).Result;
-                if (!result.Succeeded)
-                {
-                    throw new Exception(result.Errors.First().Description);
-                }
-            }
-
-            return Ok();
+            var res=  await _roleManager.AddRoleAsync(data);   
+            return Ok(res);
         }
-
 
 
         // PUT api/RoleManager/{id}
         [HttpPut("{id}")]
         public async Task<IActionResult> EditRole([FromRoute]string id, [FromBody]RoleDto data)
         {
+            if (data == null)
+            {
+                ModelState.AddModelError("RoleDto", "POST body is null");
+                return BadRequest(ModelState);
+            }
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             if (id == data.Id)
             {
-                var role = await _roleManager.FindByIdAsync(id);
-                //Обновить НАЗВАНИЕ РОЛИ
-                role.Name = data.Name;
-                var result = await _roleManager.UpdateAsync(role);
-                if (!result.Succeeded)
-                {
-                    throw new Exception(result.Errors.First().Description);
-                }
-
-                //удалить текущие КЛЕЙМЫ
-                var claimsCurrent = await _roleManager.GetClaimsAsync(role);
-                foreach (var claim in claimsCurrent)
-                {
-                    result = await _roleManager.RemoveClaimAsync(role, claim);
-                    if (!result.Succeeded)
-                    {
-                        throw new Exception(result.Errors.First().Description);
-                    }
-                }
-
-                //добавить новые КЛЕЙМЫ
-                var claims = data.Claims.Select(c => new Claim(c.Key, c.Value)).ToList();
-                foreach (var claim in claims)
-                {
-                    result = _roleManager.AddClaimAsync(role, claim).Result;
-                    if (!result.Succeeded)
-                    {
-                        throw new Exception(result.Errors.First().Description);
-                    }
-                }
-
-                return Ok(data);
+                var res = await _roleManager.EditRoleAsync(data);
+                return Ok(res);
             }
             return NotFound("Id не совпадают");
         }
 
 
-
-        // DELETE api/RoleManager/Admin
+        //DELETE api/RoleManager/Admin
         [HttpDelete("{roleName}")]
         public async Task<IActionResult> Delete([FromRoute]string roleName)
         {
@@ -158,15 +98,10 @@ namespace UserDbWebApi.Controllers
             {
                 return NotFound(roleName);
             }
-            var role = await _roleManager.FindByNameAsync(roleName);
-            var result = await _roleManager.DeleteAsync(role);
-            if (!result.Succeeded)
-            {
-                throw new Exception(result.Errors.First().Description);
-            }
-            return Ok(role);
+            var res = await _roleManager.RemoveRoleAsync(roleName);
+            return Ok(res);
         }
 
-         #endregion
+        #endregion
     }
 }

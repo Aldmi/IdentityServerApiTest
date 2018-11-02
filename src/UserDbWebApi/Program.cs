@@ -22,7 +22,7 @@ namespace UserDbWebApi
 
             var host = BuildWebHost(args);
 
-            seed = true; //DEBUG
+            //seed = true; //DEBUG
             if (seed)
             {
                 SeedData.EnsureSeedData(host.Services);

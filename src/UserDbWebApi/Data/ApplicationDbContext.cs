@@ -13,6 +13,11 @@ namespace UserDbWebApi.Data
             //Database.EnsureCreated();
         }
 
+
+        public DbSet<Company> Companys { get; set; }
+
+
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             //builder.Entity<ApplicationUser>().OwnsOne(c => c.Company);

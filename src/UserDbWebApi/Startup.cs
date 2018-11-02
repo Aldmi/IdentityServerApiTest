@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using UserDbWebApi.Data;
 using UserDbWebApi.Entities;
+using UserDbWebApi.Services;
 
 namespace UserDbWebApi
 {
@@ -35,14 +36,14 @@ namespace UserDbWebApi
             services.AddDbContextPool<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddIdentity<ApplicationUser, IdentityRole>()       //TODO: Не работают сервисы для Users, Roles
+            services.AddIdentity<ApplicationUser, IdentityRole>() //TODO: Не работают сервисы для Users, Roles
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
 
-            //services.AddScoped<ApplicationUserManager>();
-            // services.AddScoped<UserManager<ApplicationUser>>();
-            // services.AddScoped<RoleManager<ApplicationUser>>();
+            services.AddTransient<RoleManagerService>();
+            services.AddTransient<UserManagerService>();
+
 
             services.AddMvcCore()
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1)

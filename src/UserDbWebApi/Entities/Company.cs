@@ -1,14 +1,14 @@
-﻿
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-using System.Collections.Generic;
-using UserDbWebApi.Entities;
-
-namespace IdentityServerApi_AspNetIdentity.Models.UserModel
+namespace UserDbWebApi.Entities
 {
     public class Company
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
         public string Name { get; set; }
+
+        [Required]
         public List<ApplicationUser> ApplicationUsers { get; set; }
     }
 }

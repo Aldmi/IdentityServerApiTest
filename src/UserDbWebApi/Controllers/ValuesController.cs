@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using UserDbWebApi.Services;
 
 namespace UserDbWebApi.Controllers
 {
@@ -12,6 +13,15 @@ namespace UserDbWebApi.Controllers
     [Authorize]
     public class ValuesController : ControllerBase
     {
+        private readonly RoleManagerService _roleManager;
+
+
+        public ValuesController(RoleManagerService roleManager)
+        {
+            _roleManager = roleManager;
+        }
+
+
         // GET api/values
         [HttpGet]
         [Authorize(Roles = "SuperAdmin")]

@@ -158,7 +158,7 @@ namespace IdentityServerApi_AspNetIdentity.Controllers
         //    {
         //        return NotFound(roleName);
         //    }
-        //    var role = await _roleManager.FindByNameAsync(roleName);
+         //var role = await _roleManager.FindByNameAsync(roleName);
         //    var result = await _roleManager.DeleteAsync(role);
         //    if (!result.Succeeded)
         //    {
