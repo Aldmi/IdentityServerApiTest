@@ -97,6 +97,8 @@ namespace IdentityServerApi_AspNetIdentity.Quickstart.Account
             if (ModelState.IsValid)
             {
                 var result = await _signInManager.PasswordSignInAsync(model.Username, model.Password, model.RememberLogin, lockoutOnFailure: true);
+                //var user1 = await _userManager.FindByNameAsync(model.Username);
+                //var result = await _signInManager.CheckPasswordSignInAsync(user1, model.Password, lockoutOnFailure: true);
                 if (result.Succeeded)
                 {
                     var user = await _userManager.FindByNameAsync(model.Username);

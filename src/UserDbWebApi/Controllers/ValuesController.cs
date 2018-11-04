@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using UserDbWebApi.Entities;
 using UserDbWebApi.Services;
 
 namespace UserDbWebApi.Controllers
@@ -14,17 +16,19 @@ namespace UserDbWebApi.Controllers
     public class ValuesController : ControllerBase
     {
         private readonly RoleManagerService _roleManager;
+        private readonly UserManager<ApplicationUser> _userManager;
 
 
-        public ValuesController(RoleManagerService roleManager)
+        public ValuesController(RoleManagerService roleManager, UserManager<ApplicationUser> userManager)
         {
             _roleManager = roleManager;
+            _userManager = userManager;
         }
 
 
         // GET api/values
         [HttpGet]
-        [Authorize(Roles = "SuperAdmin")]
+        [Authorize(AuthenticationSchemes = "Bearer", Roles = "SuperAdmin")]
         public ActionResult<IEnumerable<string>> Get()
         {
             var claims = from c in User.Claims select new { c.Type, c.Value };
@@ -32,6 +36,9 @@ namespace UserDbWebApi.Controllers
             var name = User.Identity.Name;
             var companyNAnme = User.FindFirst("CompanyName").Value;
             var roles = claims.Where(c => c.Type == "role").Select(c => c.Value).ToList();
+
+           var users= _userManager.Users.ToList();
+
 
             return new JsonResult(from c in User.Claims select new { c.Type, c.Value });
         }

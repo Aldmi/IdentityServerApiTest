@@ -44,7 +44,7 @@ var config = {
     // эта страница используется для "фонового" обновления токена пользователя через iframe
     silent_redirect_uri: 'http://localhost:5003/callback-silent.html',
     // за столько секунд до истечения oidc-client постарается обновить access_token
-    accessTokenExpiringNotificationTime: 60
+    accessTokenExpiringNotificationTime: 60,
 };
 var mgr = new Oidc.UserManager(config);
 
@@ -88,9 +88,11 @@ function getRoles() {
 
         var xhr = new XMLHttpRequest();
         xhr.open("GET", url);
-        xhr.onload = function () {
+        xhr.onload = function() {
             log(xhr.status, JSON.parse(xhr.responseText));
+
         }
+
         xhr.setRequestHeader("Authorization", "Bearer " + user.access_token);
         xhr.send();
     });
