@@ -40,10 +40,8 @@ namespace UserDbWebApi
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
-
             services.AddTransient<RoleManagerService>();
             services.AddTransient<UserManagerService>();
-
 
             services.AddMvcCore()
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1)

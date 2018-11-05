@@ -68,3 +68,17 @@ D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsCli
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb
 D:\Dropbox\C#\ASP NET Core\IdentityServerTest_1.2 (With ASP.NET Identity)2\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\Git\IdentityServerApiTest\src\JsClient\bin\Debug\netcoreapp2.1\JsClient.deps.json
+D:\Git\IdentityServerApiTest\src\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.json
+D:\Git\IdentityServerApiTest\src\JsClient\bin\Debug\netcoreapp2.1\JsClient.runtimeconfig.dev.json
+D:\Git\IdentityServerApiTest\src\JsClient\bin\Debug\netcoreapp2.1\JsClient.dll
+D:\Git\IdentityServerApiTest\src\JsClient\bin\Debug\netcoreapp2.1\JsClient.pdb
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.csprojAssemblyReference.cache
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.csproj.CoreCompileInputs.cache
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cache
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorAssemblyInfo.cs
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfoInputs.cache
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.AssemblyInfo.cs
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.RazorTargetAssemblyInfo.cache
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.dll
+D:\Git\IdentityServerApiTest\src\JsClient\obj\Debug\netcoreapp2.1\JsClient.pdb

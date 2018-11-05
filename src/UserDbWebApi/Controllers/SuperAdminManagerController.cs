@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using UserDbWebApi.DTO.RolesDto;
 using UserDbWebApi.DTO.UserDto;
 using UserDbWebApi.Entities;
 using UserDbWebApi.Services;
@@ -114,6 +116,67 @@ namespace UserDbWebApi.Controllers
             var res= await _userManager.AddNewUser(userDto);
             return Ok(res.ToString());
         }
+
+
+        //DELETE api/SuperAdminManager/{userName}/{companyName}
+        [HttpDelete("{userName}/{companyName}")]
+        public async Task<IActionResult> Delete([FromRoute]string userName, [FromRoute]string companyName)
+        {
+            companyName = "Скоринг";//DEBUG
+            if (!await _userManager.UserExistsAsync(userName, companyName))
+            {
+                return BadRequest($"Такого пользователя НЕ существует {userName} в компании {companyName}");
+            }
+
+            var res = await _userManager.RemoveUser(userName, companyName);
+            return Ok(res.ToString());
+        }
+
+
+
+        // PUT api/SuperAdminManager/ChangeUserName/{id}/{newUserName}
+        [HttpPut("ChangeUserName/{userId}/{newUserName}")]
+        public async Task<IActionResult> ChangeUserName([FromRoute]string userId, [FromRoute]string newUserName)
+        {
+            if (!await _userManager.UserExistsAsync(userId))
+            {
+                return BadRequest($"Такого пользователя НЕ существует {userId}");
+            }
+            var res = await _userManager.ChangeUserNameAsync(userId, newUserName);
+            return Ok(res);
+        }
+
+
+        // PUT api/SuperAdminManager/ChangeUserClaims/{id}
+        [HttpPut("ChangeUserClaims/{userId}")]
+        public async Task<IActionResult> ChangeUserClaims([FromRoute]string userId, [FromBody] ApplicationUserDto userDto)
+        {
+            if (userId != userDto.Id)
+            {
+                throw new Exception("Id пользователя не совпадает");
+            }
+            if (!await _userManager.UserExistsAsync(userId))
+            {
+                return BadRequest($"Такого пользователя НЕ существует {userId}");
+            }
+            var res = await _userManager.ChangeUserClaims(userId, userDto.Claims);
+            return Ok(res);
+        }
+
+
+        // PUT api/SuperAdminManager/ChangeUserClaims/{id}
+        [HttpPut("ChangeUserClaims/{userId}")]
+        public async Task<IActionResult> ChangeUserPassword([FromRoute]string userId, [FromBody] ApplicationUserDto userDto)
+        {
+            //TODO: Где передавать пароли? Сделать отдельное Dto?
+            if (!await _userManager.UserExistsAsync(userId))
+            {
+                return BadRequest($"Такого пользователя НЕ существует {userId}");
+            }
+            var res = await _userManager.ChangeUserPassword(userId, "", "");
+            return Ok(res);
+        }
+
 
         #endregion
 
